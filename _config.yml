@@ -1,7 +1,7 @@
 title: CV | A jekyll template
 description: A beautiful template for your CV.
 url: https://birdust.github.io/resume/
-baseurl: "https://birdust.github.io/resume/"
+baseurl: ""
 theme_skin: blue
 
 sass:
