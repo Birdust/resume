@@ -14,8 +14,7 @@ languages:
   - idiom: Korean
 
 education:
-  - degree: |
-  Computer Information </li><li> and Communication Engineering
+  - degree: Computer Information and Communication Engineering
     time: 2021-2024
     university: Semyung University
 
@@ -36,6 +35,8 @@ skills:
 # Profile
 profile: |
   세명대학교 정보통신학부에 재학중인 2021219008 김언지입니다.</li><li>
+
+
   저는 Full stack developer를 목표로 현재 Java 공부에 가장 집중하고 있습니다.
 
 # Experience
