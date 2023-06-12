@@ -16,7 +16,7 @@ languages:
   - idiom: Korean
 
 education:
-  - degree: Faculty of Information and Communication
+  - degree: School of Computer Information and Communication Engineering
     time: 2021-2024
     university: Semyung University
 
@@ -36,16 +36,15 @@ skills:
 
 # Profile
 profile: |
-  세명대학교 정보통신학부 3학년에 재학중인 2021219008 김언지입니다.
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  세명대학교 정보통신학부에 재학중인 2021219008 김언지입니다.
+  저는 Full stack developer를 목표로 현재 Java 공부에 가장 집중하고 있습니다. 
+  더하기
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Software Engineer, DB
+    time: 2023-Present
+    company: Semyung University Team Project
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
@@ -53,11 +52,11 @@ experience:
       Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
       fugiat nulla pariatur.
     technologies_used: |
-      Go, Angular, Typescript, C++
+      SQL, Java, Firebase DB, Android Studio
 
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: Full stack developer
+    time: 2023
+    company: Semyung University Team Project
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
@@ -65,31 +64,24 @@ experience:
       Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
       fugiat nulla pariatur.
     technologies_used: |
-      Python, Tensorflow, Keras, Matlab
-
-publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
-
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+      Java, Android Studio
 
 projects:
-  - title: Cool Project
-    link: #
+  - title: Writing Challenge
+    link: [Writing Challenge](https://github.com/Birdust/WritingChallenge)
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      일기를 쓰도록 하는 것은 어릴 때부터 학습시킬 정도로 중요하지만 
+      사람들은 아이디어를 쉽게 생각하지 못하는 경우가 많습니다.
+      그러한 경우 일기를 쓰기 위한 주제를 추천 받을 수 있다면 비교적 쉽게 일기를 쓸 수 있을 것입니다.
+      이 프로젝트의 목표는 사람들이 자신의 지식을 바탕으로 더 많이 쓰도록 하는 것이며
+      사용자가 좋은 글쓰기 습관과 창의성을 발전시킬 수 있기를 바라며 개발하였습니다.
 
-  - title: Cool Project
-    link: #
+
+  - title: Book Project
+    link: [Book Project](https://github.com/Birdust/BookProject)
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      책을 읽으려해도 어떤 책부터 읽어야 할지 갈피가 안잡히는 사람들을 위해 
+      주제만 선택하면 책을 랜덤으로 추천해주는 프로젝트를 개발하고자 하였습니다.
 
 # Volunteering
 volunteering:
