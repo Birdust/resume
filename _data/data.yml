@@ -36,7 +36,7 @@ skills:
 
 # Profile
 profile: |
-  세명대학교 정보통신학부에 재학중인 2021219008 김언지입니다. |
+  세명대학교 정보통신학부에 재학중인 2021219008 김언지입니다. 
   저는 Full stack developer를 목표로 현재 Java 공부에 가장 집중하고 있습니다.
 
 # Experience
@@ -45,9 +45,9 @@ experience:
     time: 2023-Present
     company: Semyung University Team Project
     details: |
-      Writing Challenge 프로젝트를 통해 어플리케이션의 데이터 베이스를 관리하는 법을 배웠으며|
-      소프트웨어를 설계하고 테스트 케이스를 통해 어플리케이션을 관리하는 것을 익혔습니다.|
-      프론트 설계만 했던 다른 프로젝트와 달리 SQL 언어와 데이터베이스를 통해 백엔드를 익히고|
+      Writing Challenge 프로젝트를 통해 어플리케이션의 데이터 베이스를 관리하는 법을 배웠으며
+      소프트웨어를 설계하고 테스트 케이스를 통해 어플리케이션을 관리하는 것을 익혔습니다.
+      프론트 설계만 했던 다른 프로젝트와 달리 SQL 언어와 데이터베이스를 통해 백엔드를 익히고
       관리하는 작업을 통해 깊게 이해하였습니다.
     technologies_used: |
       SQL, Java, Firebase DB, Android Studio
@@ -56,11 +56,9 @@ experience:
     time: 2023
     company: Semyung University Team Project
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      책 추천 프로젝트를 통해 사람들의 요구 사항을 확인하고 UI부터 데이터 추천
+      설계까지 Java 언어로 구현하였고 책을 읽고 싶은 분야만 선택하고 추천 버튼을 누르면 
+      주제에 맞는 책이 짧은 줄거리,저자 등의 간단한 정보와 함께 제공되는 작업을 진행하였습니다.
     technologies_used: |
       Java, Android Studio
 
