@@ -80,12 +80,10 @@ projects:
       책을 읽으려해도 어떤 책부터 읽어야 할지 갈피가 안잡히는 사람들을 위해 
       주제만 선택하면 책을 랜덤으로 추천해주는 프로젝트를 개발하고자 하였습니다.
 
-# Volunteering
-volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
+# Other projects
+Other Projects:
+  - time: 2022-Present
+    role: student researcher
+    company: Drone Makers
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      학생 연구원으로 UAV 드론의 SLZ을 탐지하는 방법에 대해 연구중입니다.
