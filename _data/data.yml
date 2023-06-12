@@ -1,4 +1,4 @@
-name: KIM UNJI
+name: 2021219008 학번 KIM UNJI 이력서 페이지
 support_dark_mode: true
 fork: true
 
@@ -15,8 +15,7 @@ languages:
 
 education:
   - degree: |
-      Computer Information                                            
-      and Communication Engineering
+      Computer_Information_and_Communication_Engineering
     time: 2021-2024
     university: Semyung University
 
