@@ -14,9 +14,7 @@ languages:
   - idiom: Korean
 
 education:
-  - degree: |
-      Computer Information
-      and Communication Engineering
+  - degree: Computer Information and Communication Engineering
     time: 2021-2024
     university: Semyung University
 
