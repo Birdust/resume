@@ -4,6 +4,8 @@ url: https://birdust.github.io/resume/
 baseurl: ""
 theme_skin: blue
 
+future: true
+
 sass:
   sass_dir: _sass
   style: compressed
