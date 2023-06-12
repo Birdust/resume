@@ -7,42 +7,36 @@ contact:
   email: djswl0922@gmail.com
   github: Birdust
   linkedin: Birdust
-  phone:
+  phone: 010-3433-2292
   gitlab:
   twitter:
 
 languages:
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Korean
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
-
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: Faculty of Information and Communication
+    time: 2021-2024
+    university: Semyung University
 
 skills:
   - category: Backend
     skill:
-      - Go
-      - Rust
+      - Java
+      - Spring
   - category: Frontend
     skill:
-      - React
+      - HTML / CSS
       - Typescript
   - category: DevOps
     skill:
       - Docker
-      - Kubernetes
+      - Git
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+  세명대학교 정보통신학부 3학년에 재학중인 2021219008 김언지입니다.
   quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
   Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
   fugiat nulla pariatur.
