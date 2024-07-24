@@ -5,13 +5,15 @@
     {% for res in research %}
         <div class="research-item">
             <div class="role">
-                {{res.role}}
+                {{ res.role }}
             </div>
             <div class="organization">
-                {{res.company}}
-                <span class="time">{{res.time}}</span>
+                {{ res.company }}
+                <span class="time">{{ res.time }}</span>
             </div>
-            <div class="details">{{res.details}}</div>    
+            <div class="details">
+                {{ res.details }}
+            </div>    
         </div>    
     {% endfor %}
 </section>
