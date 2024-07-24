@@ -33,6 +33,9 @@ skills:
     skill:
       - Docker
       - Git
+  - category: other
+    skill:
+      - 정보처리기사
 
 # Experience
 experience:
@@ -88,8 +91,8 @@ projects:
     details: |
       세명대학교 교내 빵집 웹사이트
 
-# Volunteering
-volunteering:
+# research
+research:
   - time: 2022-2024
     role: student researcher
     company: Drone Makers

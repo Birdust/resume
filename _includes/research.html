@@ -1,0 +1,18 @@
+{% assign research = site.data.data.research %}
+{% if research %}
+<section class="research">
+    <h2 class="title">Research</h2>
+    {% for res in research %}
+        <div class="research-item">
+            <div class="role">
+                {{res.role}}
+            </div>
+            <div class="organization">
+                {{res.company}}
+                <span class="time">{{res.time}}</span>
+            </div>
+            <div class="details">{{res.details}}</div>    
+        </div>    
+    {% endfor %}
+</section>
+{% endif %}
