@@ -102,13 +102,3 @@ projects:
     details: |
       세명대학교 교내 빵집 웹사이트
 
-# Research
-research:
-  - time: 2022-2024
-    role: student researcher
-    company: Drone Makers
-    details: |
-      정부 과제 : (1425178623) 센서 융합 기반 자율비행 배송드론 시스템 개발
-      학생 연구원으로 UAV 드론의 SLZ을 탐지하는 방법을 이미지 세그멘테이션으로 구현하고 
-      이륙시 Lidar 센서를 활용해 장애물 탐지 후 안전 이륙 할 수 있도록 하였습니다.
-  
